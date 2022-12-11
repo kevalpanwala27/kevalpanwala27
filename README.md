@@ -1,5 +1,3 @@
-![Github Banner](Users/kevalpanwala/Desktop/All\ Things/CODING/banner.png)
-
 # 💫 About Me:
 Hello, My name is Keval Panwala and I am a Developer and AI&ML enthusiast. I am currently trying my hands on Competitive Programming too. 
 
