@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Keval Panwala and I am a Developer and AI&ML enthusiast. I am also currently trying my hands on Competitive Programming too. 
+Hello, My name is Keval Panwala and I am a Developer and AI&ML enthusiast. I am trying my hands on deep learning too. Also I am very much interested in Competitive Programming too.
 
 
 ## 🤝 Connect With Me:
