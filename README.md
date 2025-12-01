@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me  
-- 🔭 Currently working on **Ostello**  
+- 🔭 Currently working on **Nutriscan**  
 - 🌱 Exploring **Cloud, DevOps, and Scalable Architectures**  
 - 💬 Ask me about **Full Stack Development, Flutter, Backend Systems, and DevOps**  
 - 📫 Reach me at **kapanwala24@gmail.com**  
